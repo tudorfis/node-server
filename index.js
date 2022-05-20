@@ -9,7 +9,7 @@ const app = express();
 
 // defining an array to work as the database (temporary solution)
 const ads = [
-  {title: 'Hello, world (again)!'}
+  {title: 'Hello, world qwewqewqe(again)!'}
 ];
 
 // adding Helmet to enhance your API's security
